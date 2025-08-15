@@ -15,6 +15,6 @@ Objectives
 - Align outputs with the WGU D501 rubric criteria.
 
 
-- This project is for educational purposes as part of the WGU D501 course.<img width="468" height="35" alt="image" src="https://github.com/user-attachments/assets/08765c73-83d7-4abb-b5c4-bad109d0cfdc" />
+This project is for educational purposes as part of the WGU D501 course.
 
-<img width="468" height="371" alt="image" src="https://github.com/user-attachments/assets/388d2696-422c-4e4c-9c01-185ce7652ab7" />
+
